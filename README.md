@@ -68,7 +68,7 @@ Extend to multiclass classification
 
 
 
----
+----
 
 📌 Note
 
@@ -76,4 +76,4 @@ This project focuses on model logic and learning behavior, not deployment.
 The emphasis is on understanding core concepts through implementation.
 
 
----
+----
